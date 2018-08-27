@@ -1,26 +1,31 @@
 {
-    "name": "cognac",
-    "displayName": "Cognac",
-    "description": "An Alluring, Dark, and Muted Theme For Your Favorite Text Editor.",
-    "version": "0.0.1",
-    "publisher": "artsabintsev",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/ArtSabintsev/Cognac-VSCode.git"
-    },
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Cognac",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Cognac-color-theme.json"
-            }
-        ]
-    }
+	"name": "cognac",
+	"displayName": "Cognac",
+	"description": "An Alluring, Dark, and Muted Theme For Your Favorite Text Editor.",
+	"version": "0.1.0",
+	"publisher": "artsabintsev",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/ArtSabintsev/Cognac-VSCode.git"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cognac",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Cognac-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a7ea28eb-6eab-4208-8f7f-6fae0c01b903",
+		"publisherId": "ced5bc97-27f0-4b3d-a2ae-4c7044762496",
+		"publisherDisplayName": "ArtSabintsev"
+	}
 }
