@@ -13,17 +13,17 @@ Cognac is available for many other editors at http://github.com/ArtSabintsev/Cog
 
 Color | Palette | Hex | Usage
 --- | --- | --- | ---
-![#222222](https://placehold.it/15/222222/222222?text=+) | Black      | #222222 | Background
-![#555555](https://placehold.it/15/555555/555555?text=+) | Dark-Gray  | #555555 | Text Selection
-![#999999](https://placehold.it/15/999999/999999?text=+) | Gray       | #999999 | Comments & Documentation
-![#DFDFDF](https://placehold.it/15/DFDFDF/DFDFDF?text=+) | Light-Gray | #DFDFDF | Literals (Strings, Numbers) & Documentation Keywords
-![#FF80C6](https://placehold.it/15/FF80C6/FF80C6?text=+) | Pink       | #FF80C6 | Keywords
-![#C18AFF](https://placehold.it/15/C18AFF/C18AFF?text=+) | Purple     | #C18AFF | Classes & Types
-![#87D5FF](https://placehold.it/15/87D5FF/87D5FF?text=+) | Blue       | #87D5FF | Functions & Methods
-![#8AEC8A](https://placehold.it/15/8AEC8A/8AEC8A?text=+) | Green      | #8AEC8A | Variables
-![#FFF680](https://placehold.it/15/FFF680/FFF680?text=+) | Yellow     | #FFF680 | Macros & Attributes
-![#FFC580](https://placehold.it/15/FFC580/FFC580?text=+) | Orange     | #FFC580 | Plain Text
-![#FF9595](https://placehold.it/15/FF9595/FF9595?text=+) | Red        | #FF9595 | Constants
+<span style="display:inline-block;width:16px;height:16px;background-color:#222222;border:1px solid #000;"></span> | Black      | #222222 | Background
+<span style="display:inline-block;width:16px;height:16px;background-color:#555555;border:1px solid #000;"></span> | Dark-Gray  | #555555 | Text Selection
+<span style="display:inline-block;width:16px;height:16px;background-color:#999999;border:1px solid #000;"></span> | Gray       | #999999 | Comments & Documentation
+<span style="display:inline-block;width:16px;height:16px;background-color:#DFDFDF;border:1px solid #000;"></span> | Light-Gray | #DFDFDF | Literals (Strings, Numbers) & Documentation Keywords
+<span style="display:inline-block;width:16px;height:16px;background-color:#FF80C6;border:1px solid #000;"></span> | Pink       | #FF80C6 | Keywords
+<span style="display:inline-block;width:16px;height:16px;background-color:#C18AFF;border:1px solid #000;"></span> | Purple     | #C18AFF | Classes & Types
+<span style="display:inline-block;width:16px;height:16px;background-color:#87D5FF;border:1px solid #000;"></span> | Blue       | #87D5FF | Functions & Methods
+<span style="display:inline-block;width:16px;height:16px;background-color:#8AEC8A;border:1px solid #000;"></span> | Green      | #8AEC8A | Variables
+<span style="display:inline-block;width:16px;height:16px;background-color:#FFF680;border:1px solid #000;"></span> | Yellow     | #FFF680 | Macros & Attributes
+<span style="display:inline-block;width:16px;height:16px;background-color:#FFC580;border:1px solid #000;"></span> | Orange     | #FFC580 | Plain Text
+<span style="display:inline-block;width:16px;height:16px;background-color:#FF9595;border:1px solid #000;"></span> | Red        | #FF9595 | Constants
 
 ### Specific Rules
 - Keywords, which are pink, should always be bolded.

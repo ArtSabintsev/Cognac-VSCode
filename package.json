@@ -2,14 +2,14 @@
 	"name": "cognac",
 	"displayName": "Cognac",
 	"description": "An Alluring, Dark, and Muted Theme For Your Favorite Text Editor.",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"publisher": "ArtSabintsev",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/ArtSabintsev/Cognac-VSCode.git"
 	},
 	"engines": {
-		"vscode": "^1.26.0"
+		"vscode": "^1.80.0"
 	},
 	"categories": [
 		"Themes"
